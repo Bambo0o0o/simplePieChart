@@ -1,16 +1,16 @@
 {
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "axios": "^1.13.6",
     "chart.js": "^4.5.1",
-    "react-chartjs-2": "^5.3.1",
     "react": "...",
+    "react-chartjs-2": "^5.3.1",
     "react-dom": "...",
-    "react-scripts": "..."
+    "react-scripts": "file:..."
   }
 }
